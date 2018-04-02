@@ -1,0 +1,14 @@
+.buttons:hover {
+    -fx-background-color: transparent;
+    -fx-border-color: #5a4a1c;
+    -fx-border-width: 0px 8px 0px 0px;
+    -fx-border-style: solid;
+}
+.text-field{
+    -fx-font-family: Luminari, fantasy;
+    -fx-font-size: 30px;
+}
+
+.table-view{
+    -fx-font-size: 12px;
+}
